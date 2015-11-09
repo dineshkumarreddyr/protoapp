@@ -1,0 +1,33 @@
+{
+  "name": "protoapp",
+  "description": "RSS Feeds",
+  "main": "index.module.js",
+  "authors": [
+    "Dinesh Kumar"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Angularjs",
+    "prototype",
+    "RSS"
+  ],
+  "homepage": "https://github.com/dineshkumarreddyr/protoapp",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "jquery": "~2.1.4",
+    "angular-ui-router": "~0.2.15",
+    "angular-cookies": "~1.4.7",
+    "components-font-awesome": "~4.4.0",
+    "angular-callback-service": "~1.0.0",
+    "angular-sanitize": "~1.4.7"
+  }
+}
